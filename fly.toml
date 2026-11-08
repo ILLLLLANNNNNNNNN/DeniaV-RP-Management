@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for deniav-rp-management on 2026-11-08T07:30:47Z
+# fly.toml app configuration file generated for deniav-rp-management-ni6nug on 2026-11-08T07:34:54Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'deniav-rp-management'
-primary_region = 'fra'
+app = 'deniav-rp-management-ni6nug'
+primary_region = 'ams'
 
 [build]
 [http_service]
